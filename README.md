@@ -1,2 +1,0 @@
-# chai
-Testing with chai

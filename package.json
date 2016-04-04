@@ -1,7 +1,7 @@
 {
-  "name": "writetests",
+  "name": "testdrivendev",
   "version": "1.0.0",
-  "description": "practicing_TDD",
+  "description": "write some test driven js",
   "main": "main.js",
   "directories": {
     "test": "test"
@@ -15,6 +15,10 @@
   "author": "alexBennett",
   "license": "MIT",
   "devDependencies": {
-    "chai": "^3.4.0"
+    "chai": "^3.4.0",
+    "jasmine": "^2.3.2"
+  },
+  "dependencies": {
+    "chai-deep-match": "^1.0.2"
   }
 }
